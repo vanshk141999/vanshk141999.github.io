@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ed4f33d.css",
-    "main.js": "/static/js/main.998e2398.js",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/resume.pdf": "/static/media/resume.6f33a8a14154a477b88c.pdf",
+    "main.css": "/static/css/main.d8de0239.css",
+    "main.js": "/static/js/main.1ea0df8e.js",
+    "static/media/fit_me_ui.png": "/static/media/fit_me_ui.a35f14fa9478411c3f06.png",
+    "static/media/ai_markup_generator.png": "/static/media/ai_markup_generator.d875ec5fb44977824cbf.png",
+    "static/media/spacex_data.png": "/static/media/spacex_data.43a706dbfb772eeb46f2.png",
+    "static/media/report_generator.png": "/static/media/report_generator.35b9b65e60499e066eb2.png",
+    "static/media/unmuted.png": "/static/media/unmuted.f075c39c447f9b3b26b4.png",
+    "static/media/notes_app.png": "/static/media/notes_app.91b9f8c29f62ed901179.png",
+    "static/media/vansh_kapoor_resume.pdf": "/static/media/vansh_kapoor_resume.ca845614e8626108794f.pdf",
     "static/media/me.png": "/static/media/me.192ec5e241b418e71c2d.png",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/portfolio1.png": "/static/media/portfolio1.3703f43bc21f1feefb5c.png",
     "static/media/me-about.png": "/static/media/me-about.436396fc9410e8236451.png",
     "index.html": "/index.html",
-    "main.7ed4f33d.css.map": "/static/css/main.7ed4f33d.css.map",
-    "main.998e2398.js.map": "/static/js/main.998e2398.js.map"
+    "main.d8de0239.css.map": "/static/css/main.d8de0239.css.map",
+    "main.1ea0df8e.js.map": "/static/js/main.1ea0df8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ed4f33d.css",
-    "static/js/main.998e2398.js"
+    "static/css/main.d8de0239.css",
+    "static/js/main.1ea0df8e.js"
   ]
 }
