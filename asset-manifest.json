@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.911a5142.css",
-    "main.js": "/static/js/main.1ea0df8e.js",
+    "main.js": "/static/js/main.3928c5ec.js",
     "static/media/fit_me_ui.png": "/static/media/fit_me_ui.a35f14fa9478411c3f06.png",
     "static/media/ai_markup_generator.png": "/static/media/ai_markup_generator.d875ec5fb44977824cbf.png",
     "static/media/spacex_data.png": "/static/media/spacex_data.43a706dbfb772eeb46f2.png",
@@ -13,10 +13,10 @@
     "static/media/me-about.png": "/static/media/me-about.436396fc9410e8236451.png",
     "index.html": "/index.html",
     "main.911a5142.css.map": "/static/css/main.911a5142.css.map",
-    "main.1ea0df8e.js.map": "/static/js/main.1ea0df8e.js.map"
+    "main.3928c5ec.js.map": "/static/js/main.3928c5ec.js.map"
   },
   "entrypoints": [
     "static/css/main.911a5142.css",
-    "static/js/main.1ea0df8e.js"
+    "static/js/main.3928c5ec.js"
   ]
 }
